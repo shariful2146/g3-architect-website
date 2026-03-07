@@ -7,3 +7,27 @@
   font-weight: 400;
   font-style: normal;
 }
+
+/* shared styles */
+.display-flex{
+  display: flex;
+}
+
+
+/* header styles */
+
+
+/* navbar related styles */
+.navbar{
+  display: flex;
+}
+
+.nav-item{
+  list-style: none;
+  margin-right: 30px;
+}
+
+.nav-link{
+  text-decoration: none;
+  font-weight: 500;
+}
